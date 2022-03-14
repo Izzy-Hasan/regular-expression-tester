@@ -1,6 +1,6 @@
 # RegExp-tester
 
-<! ––
+
 Izzat Hasan
 REGEXP
 Izzathasan@lewisu.edu
@@ -15,4 +15,4 @@ Index.js
 How to access project:
 You will provided with a URL that will take you straight to the project.
 You can also clone my repository to get access to the full project file
-––>
+
