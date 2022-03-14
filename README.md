@@ -7,6 +7,8 @@ Izzathasan@lewisu.edu
 
 All content in this project is original.
 
+lets you test your regular expressions against any entry of your choice and clearly highlights all matches
+
 Required files include:
 Index.html,
 Index.css,
